@@ -1,10 +1,6 @@
 package uz.jl.springbootfeatures.enums;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/17:18 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
+
 public class Permissions {
 
     public static final String ROLE_CREATE = "ROLE_CREATE";

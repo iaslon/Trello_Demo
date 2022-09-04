@@ -17,11 +17,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/17:14 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
 
 @RestControllerAdvice
 public class GlobalExceptionHandler {

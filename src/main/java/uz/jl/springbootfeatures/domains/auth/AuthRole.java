@@ -9,11 +9,6 @@ import org.springframework.security.core.GrantedAuthority;
 import javax.persistence.*;
 import java.util.Collection;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/12:17 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

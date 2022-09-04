@@ -17,12 +17,6 @@ import uz.jl.springbootfeatures.services.AuthUserService;
 import uz.jl.springbootfeatures.utils.jwt.TokenService;
 
 import static uz.jl.springbootfeatures.config.security.SecurityConstants.WHITE_LIST;
-
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/11:51 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
 @Configuration
 @EnableWebSecurity
 @EnableGlobalMethodSecurity(

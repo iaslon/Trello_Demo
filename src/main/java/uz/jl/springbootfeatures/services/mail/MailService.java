@@ -16,11 +16,6 @@ import java.io.IOException;
 import java.io.StringWriter;
 import java.util.Map;
 
-/**
- * @author "Karimov Otabek"
- * @since 22/08/22/10:44 (Monday)
- * spring-boot-features/IntelliJ IDEA
- */
 
 @Service
 @RequiredArgsConstructor

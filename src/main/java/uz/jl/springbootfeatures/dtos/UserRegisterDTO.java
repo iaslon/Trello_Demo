@@ -5,11 +5,7 @@ import lombok.*;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Pattern;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/15:23 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
+
 
 @Getter
 @Setter

@@ -10,11 +10,7 @@ import uz.jl.springbootfeatures.services.auth.AuthRoleService;
 import javax.validation.Valid;
 import java.util.List;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/15:47 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
+
 @RestController
 public class AuthRoleController extends ApiController<AuthRoleService> {
 

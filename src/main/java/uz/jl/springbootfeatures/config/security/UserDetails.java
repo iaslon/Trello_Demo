@@ -11,11 +11,7 @@ import java.util.Objects;
 import java.util.Set;
 import java.util.function.Function;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/12:00 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
+
 
 @Builder
 public record UserDetails(AuthUser authUser) implements org.springframework.security.core.userdetails.UserDetails {

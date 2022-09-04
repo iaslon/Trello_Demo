@@ -11,11 +11,7 @@ import java.util.Date;
 import java.util.Objects;
 import java.util.function.Function;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/12:03 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
+
 @Component
 public class JWTUtils {
     public static final SignatureAlgorithm algorithm = SignatureAlgorithm.HS512;

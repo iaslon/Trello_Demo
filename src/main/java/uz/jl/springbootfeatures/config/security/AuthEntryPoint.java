@@ -15,11 +15,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/12:14 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
 
 
 @Component

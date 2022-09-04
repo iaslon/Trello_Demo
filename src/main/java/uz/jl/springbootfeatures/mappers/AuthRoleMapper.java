@@ -7,11 +7,6 @@ import uz.jl.springbootfeatures.dtos.auth.AuthRoleDTO;
 
 import java.util.List;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/15:52 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
 @Mapper(componentModel = "spring")
 public interface AuthRoleMapper {
     AuthRoleDTO toDTO(AuthRole entity);

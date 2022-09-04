@@ -33,11 +33,6 @@ import uz.jl.springbootfeatures.utils.jwt.TokenService;
 import java.time.LocalDateTime;
 import java.util.function.Supplier;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/12:07 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
 
 @Service
 public class AuthUserService implements UserDetailsService {

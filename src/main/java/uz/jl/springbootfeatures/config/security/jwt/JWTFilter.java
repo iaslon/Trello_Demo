@@ -19,11 +19,7 @@ import java.util.function.Function;
 
 import static uz.jl.springbootfeatures.config.security.SecurityConstants.WHITE_LIST;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/12:01 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
+
 public class JWTFilter extends OncePerRequestFilter {
 
     private final TokenService tokenService;

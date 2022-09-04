@@ -6,11 +6,6 @@ import javax.persistence.*;
 import java.time.LocalDateTime;
 import java.util.Collection;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/10:50 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
 
 
 @Entity

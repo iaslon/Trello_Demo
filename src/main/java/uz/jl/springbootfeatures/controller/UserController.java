@@ -9,11 +9,7 @@ import uz.jl.springbootfeatures.response.ApiResponse;
 import java.time.LocalDateTime;
 import java.util.List;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/11:03 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
+
 @RestController
 @RequestMapping("/user")
 public class UserController {
@@ -26,5 +22,6 @@ public class UserController {
                 .lastLoginTime(LocalDateTime.now())
                 .email("john.lgd65@gmail.com")
                 .build()), 2);
+
     }
 }

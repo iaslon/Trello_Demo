@@ -13,11 +13,7 @@ import uz.jl.springbootfeatures.services.AuthUserService;
 import javax.validation.Valid;
 
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/10:50 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
+
 
 @RestController
 public class AuthUserController extends ApiController<AuthUserService> {

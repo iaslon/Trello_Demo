@@ -8,11 +8,6 @@ import org.springframework.stereotype.Service;
 import java.time.temporal.ChronoUnit;
 import java.time.temporal.TemporalUnit;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/12:26 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
 
 @Service
 public class AccessTokenService implements TokenService {

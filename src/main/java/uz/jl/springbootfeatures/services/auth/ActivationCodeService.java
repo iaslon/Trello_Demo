@@ -13,12 +13,6 @@ import uz.jl.springbootfeatures.utils.BaseUtils;
 import java.time.LocalDateTime;
 import java.util.UUID;
 
-/**
- * @author "Karimov Otabek"
- * @since 22/08/22/11:22 (Monday)
- * spring-boot-features/IntelliJ IDEA
- */
-
 @Service
 @RequiredArgsConstructor
 public class ActivationCodeService {

@@ -5,11 +5,6 @@ import uz.jl.springbootfeatures.domains.auth.AuthUser;
 import uz.jl.springbootfeatures.dtos.UserRegisterDTO;
 import uz.jl.springbootfeatures.dtos.auth.AuthUserDTO;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/15:28 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
 
 @Mapper(componentModel = "spring")
 public interface AuthUserMapper {

@@ -8,11 +8,6 @@ import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-/**
- * @author "Karimov Otabek"
- * @since 22/08/22/11:31 (Monday)
- * spring-boot-features/IntelliJ IDEA
- */
 
 @Component
 public class BaseUtils {

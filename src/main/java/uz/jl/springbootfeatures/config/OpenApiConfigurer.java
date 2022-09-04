@@ -9,11 +9,7 @@ import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import io.swagger.v3.oas.annotations.security.SecurityScheme;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/16:46 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
+
 
 
 @Configuration

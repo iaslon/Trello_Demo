@@ -3,11 +3,7 @@ package uz.jl.springbootfeatures.dtos.auth;
 import lombok.Builder;
 import lombok.Data;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/15:49 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
+
 @Data
 @Builder
 public class AuthRoleDTO {

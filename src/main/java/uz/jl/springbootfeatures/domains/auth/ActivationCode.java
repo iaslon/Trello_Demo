@@ -6,11 +6,7 @@ import javax.persistence.*;
 import javax.validation.constraints.Future;
 import java.time.LocalDateTime;
 
-/**
- * @author "Karimov Otabek"
- * @since 22/08/22/11:19 (Monday)
- * spring-boot-features/IntelliJ IDEA
- */
+
 @Entity
 @Setter
 @Getter

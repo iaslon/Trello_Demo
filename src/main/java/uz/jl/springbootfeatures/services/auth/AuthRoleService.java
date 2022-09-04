@@ -14,11 +14,7 @@ import uz.jl.springbootfeatures.repository.auth.AuthRoleRepository;
 import java.util.List;
 import java.util.function.Supplier;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/15:48 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
+
 
 @Service
 @RequiredArgsConstructor

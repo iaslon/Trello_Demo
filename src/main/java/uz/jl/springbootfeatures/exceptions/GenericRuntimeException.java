@@ -2,11 +2,7 @@ package uz.jl.springbootfeatures.exceptions;
 
 import lombok.Getter;
 
-/**
- * @author "Karimov Otabek"
- * @since 19/08/22/15:58 (Friday)
- * spring-boot-features/IntelliJ IDEA
- */
+
 @Getter
 public class GenericRuntimeException extends RuntimeException {
     protected final Integer statusCode;
